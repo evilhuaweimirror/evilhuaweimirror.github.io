@@ -1,5 +1,5 @@
 <!-- This file is automatic generated, please edit template file instead. -->
-# Evil Huawei - 华为作过的恶 
+# (mirror)Evil Huawei - 华为作过的恶 
 
 ## 简介
 由于部分内容被控评和删帖，已经无法在中文互联网搜索到，所以本项目将收集华为作过的恶，记录这些不应该被遗忘的历史。
